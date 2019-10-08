@@ -1,0 +1,870 @@
+Name = Empty Layer, ID = 0
+Modulus = 0.0, Thickness = 0.0, Cost = 0.0
+Name = E-Glass-Polybutadiene Fiber, Grade 1, 40% Fiber, ID = 1
+Modulus = 2.4, Thickness = 0.04518072289156626, Cost = 134.7093373493976
+Name = E-Glass-Polybutadiene Fiber, Grade 1, 50% Fiber, ID = 2
+Modulus = 2.875, Thickness = 0.03614457831325301, Cost = 125.04789156626506
+Name = E-Glass-Polybutadiene Fiber, Grade 1, 60% Fiber, ID = 3
+Modulus = 3.35, Thickness = 0.03012048192771084, Cost = 118.60692771084337
+Name = E-Glass-Polybutadiene Fiber, Grade 2, 40% Fiber, ID = 4
+Modulus = 2.4, Thickness = 0.14558232931726905, Cost = 239.61897590361446
+Name = E-Glass-Polybutadiene Fiber, Grade 2, 50% Fiber, ID = 5
+Modulus = 2.875, Thickness = 0.11646586345381527, Cost = 208.48765060240964
+Name = E-Glass-Polybutadiene Fiber, Grade 2, 60% Fiber, ID = 6
+Modulus = 3.35, Thickness = 0.0970548862115127, Cost = 187.73343373493975
+Name = E-Glass-Polybutadiene Fiber, Grade 3, 40% Fiber, ID = 7
+Modulus = 2.4, Thickness = 0.19076305220883533, Cost = 286.8283132530121
+Name = E-Glass-Polybutadiene Fiber, Grade 3, 50% Fiber, ID = 8
+Modulus = 2.875, Thickness = 0.15261044176706828, Cost = 246.03554216867474
+Name = E-Glass-Polybutadiene Fiber, Grade 3, 60% Fiber, ID = 9
+Modulus = 3.35, Thickness = 0.12717536813922353, Cost = 218.84036144578312
+Name = S2-Glass-Polybutadiene Fiber, Grade 1, 40% Fiber, ID = 10
+Modulus = 2.82, Thickness = 0.05113636363636364, Cost = 147.6425
+Name = S2-Glass-Polybutadiene Fiber, Grade 1, 50% Fiber, ID = 11
+Modulus = 3.4, Thickness = 0.04090909090909091, Cost = 136.70749999999998
+Name = S2-Glass-Polybutadiene Fiber, Grade 1, 60% Fiber, ID = 12
+Modulus = 3.98, Thickness = 0.03409090909090909, Cost = 129.41750000000002
+Name = S2-Glass-Polybutadiene Fiber, Grade 2, 40% Fiber, ID = 13
+Modulus = 2.82, Thickness = 0.16477272727272727, Cost = 281.2925
+Name = S2-Glass-Polybutadiene Fiber, Grade 2, 50% Fiber, ID = 14
+Modulus = 3.4, Thickness = 0.1318181818181818, Cost = 246.0575
+Name = S2-Glass-Polybutadiene Fiber, Grade 2, 60% Fiber, ID = 15
+Modulus = 3.98, Thickness = 0.10984848484848485, Cost = 222.5675
+Name = S2-Glass-Polybutadiene Fiber, Grade 3, 40% Fiber, ID = 16
+Modulus = 2.82, Thickness = 0.2159090909090909, Cost = 341.43500000000006
+Name = S2-Glass-Polybutadiene Fiber, Grade 3, 50% Fiber, ID = 17
+Modulus = 3.4, Thickness = 0.17272727272727273, Cost = 295.26500000000004
+Name = S2-Glass-Polybutadiene Fiber, Grade 3, 60% Fiber, ID = 18
+Modulus = 3.98, Thickness = 0.14393939393939395, Cost = 264.485
+Name = Kevlar-Polybutadiene Fiber, Grade 1, 40% Fiber, ID = 19
+Modulus = 4.5, Thickness = 0.078125, Cost = 192.29375
+Name = Kevlar-Polybutadiene Fiber, Grade 1, 50% Fiber, ID = 20
+Modulus = 5.5, Thickness = 0.06250000000000001, Cost = 175.58750000000003
+Name = Kevlar-Polybutadiene Fiber, Grade 1, 60% Fiber, ID = 21
+Modulus = 6.5, Thickness = 0.05208333333333334, Cost = 164.45
+Name = Kevlar-Polybutadiene Fiber, Grade 2, 40% Fiber, ID = 22
+Modulus = 4.5, Thickness = 0.2517361111111111, Cost = 425.16875000000005
+Name = Kevlar-Polybutadiene Fiber, Grade 2, 50% Fiber, ID = 23
+Modulus = 5.5, Thickness = 0.20138888888888892, Cost = 371.33750000000003
+Name = Kevlar-Polybutadiene Fiber, Grade 2, 60% Fiber, ID = 24
+Modulus = 6.5, Thickness = 0.1678240740740741, Cost = 335.45000000000005
+Name = Kevlar-Polybutadiene Fiber, Grade 3, 40% Fiber, ID = 25
+Modulus = 4.5, Thickness = 0.3298611111111111, Cost = 529.9625000000001
+Name = Kevlar-Polybutadiene Fiber, Grade 3, 50% Fiber, ID = 26
+Modulus = 5.5, Thickness = 0.26388888888888895, Cost = 459.42500000000007
+Name = Kevlar-Polybutadiene Fiber, Grade 3, 60% Fiber, ID = 27
+Modulus = 6.5, Thickness = 0.21990740740740744, Cost = 412.4000000000001
+Name = SM Carbon-Polybutadiene Fiber, Grade 1, 40% Fiber, ID = 28
+Modulus = 6.9, Thickness = 0.06320224719101124, Cost = 164.49550561797753
+Name = SM Carbon-Polybutadiene Fiber, Grade 1, 50% Fiber, ID = 29
+Modulus = 8.5, Thickness = 0.05056179775280899, Cost = 150.98033707865167
+Name = SM Carbon-Polybutadiene Fiber, Grade 1, 60% Fiber, ID = 30
+Modulus = 10.1, Thickness = 0.042134831460674156, Cost = 141.9702247191011
+Name = SM Carbon-Polybutadiene Fiber, Grade 2, 40% Fiber, ID = 31
+Modulus = 6.9, Thickness = 0.20365168539325842, Cost = 335.59662921348314
+Name = SM Carbon-Polybutadiene Fiber, Grade 2, 50% Fiber, ID = 32
+Modulus = 8.5, Thickness = 0.16292134831460675, Cost = 292.0477528089888
+Name = SM Carbon-Polybutadiene Fiber, Grade 2, 60% Fiber, ID = 33
+Modulus = 10.1, Thickness = 0.13576779026217228, Cost = 263.0151685393258
+Name = SM Carbon-Polybutadiene Fiber, Grade 3, 40% Fiber, ID = 34
+Modulus = 6.9, Thickness = 0.26685393258426965, Cost = 412.5921348314607
+Name = SM Carbon-Polybutadiene Fiber, Grade 3, 50% Fiber, ID = 35
+Modulus = 8.5, Thickness = 0.21348314606741572, Cost = 355.5280898876405
+Name = SM Carbon-Polybutadiene Fiber, Grade 3, 60% Fiber, ID = 36
+Modulus = 10.1, Thickness = 0.17790262172284643, Cost = 317.48539325842694
+Name = IM Carbon-Polybutadiene Fiber, Grade 1, 40% Fiber, ID = 37
+Modulus = 8.500000000000002, Thickness = 0.062154696132596686, Cost = 200.27348066298345
+Name = IM Carbon-Polybutadiene Fiber, Grade 1, 50% Fiber, ID = 38
+Modulus = 10.5, Thickness = 0.04972375690607734, Cost = 186.98232044198895
+Name = IM Carbon-Polybutadiene Fiber, Grade 1, 60% Fiber, ID = 39
+Modulus = 12.499999999999998, Thickness = 0.04143646408839779, Cost = 178.12154696132598
+Name = IM Carbon-Polybutadiene Fiber, Grade 2, 40% Fiber, ID = 40
+Modulus = 8.500000000000002, Thickness = 0.20027624309392264, Cost = 450.88121546961327
+Name = IM Carbon-Polybutadiene Fiber, Grade 2, 50% Fiber, ID = 41
+Modulus = 10.5, Thickness = 0.1602209944751381, Cost = 408.0541436464089
+Name = IM Carbon-Polybutadiene Fiber, Grade 2, 60% Fiber, ID = 42
+Modulus = 12.499999999999998, Thickness = 0.13351749539594843, Cost = 379.50276243093924
+Name = IM Carbon-Polybutadiene Fiber, Grade 3, 40% Fiber, ID = 43
+Modulus = 8.500000000000002, Thickness = 0.26243093922651933, Cost = 563.6546961325969
+Name = IM Carbon-Polybutadiene Fiber, Grade 3, 50% Fiber, ID = 44
+Modulus = 10.5, Thickness = 0.20994475138121543, Cost = 507.5364640883977
+Name = IM Carbon-Polybutadiene Fiber, Grade 3, 60% Fiber, ID = 45
+Modulus = 12.499999999999998, Thickness = 0.17495395948434622, Cost = 470.1243093922653
+Name = HM Carbon-Polybutadiene Fiber, Grade 1, 40% Fiber, ID = 46
+Modulus = 12.900000000000002, Thickness = 0.06114130434782608, Cost = 308.9733695652174
+Name = HM Carbon-Polybutadiene Fiber, Grade 1, 50% Fiber, ID = 47
+Modulus = 16.0, Thickness = 0.048913043478260865, Cost = 295.8989130434783
+Name = HM Carbon-Polybutadiene Fiber, Grade 1, 60% Fiber, ID = 48
+Modulus = 19.099999999999998, Thickness = 0.040760869565217385, Cost = 287.18260869565216
+Name = HM Carbon-Polybutadiene Fiber, Grade 2, 40% Fiber, ID = 49
+Modulus = 12.900000000000002, Thickness = 0.19701086956521735, Cost = 801.1364130434781
+Name = HM Carbon-Polybutadiene Fiber, Grade 2, 50% Fiber, ID = 50
+Modulus = 16.0, Thickness = 0.1576086956521739, Cost = 759.0076086956522
+Name = HM Carbon-Polybutadiene Fiber, Grade 2, 60% Fiber, ID = 51
+Modulus = 19.099999999999998, Thickness = 0.1313405797101449, Cost = 730.9217391304347
+Name = HM Carbon-Polybutadiene Fiber, Grade 3, 40% Fiber, ID = 52
+Modulus = 12.900000000000002, Thickness = 0.25815217391304346, Cost = 1022.6097826086958
+Name = HM Carbon-Polybutadiene Fiber, Grade 3, 50% Fiber, ID = 53
+Modulus = 16.0, Thickness = 0.20652173913043476, Cost = 967.4065217391304
+Name = HM Carbon-Polybutadiene Fiber, Grade 3, 60% Fiber, ID = 54
+Modulus = 19.099999999999998, Thickness = 0.17210144927536228, Cost = 930.6043478260867
+Name = E-Glass-Polyester Fiber, Grade 1, 40% Fiber, ID = 55
+Modulus = 2.34, Thickness = 0.04518072289156626, Cost = 138.13576807228915
+Name = E-Glass-Polyester Fiber, Grade 1, 50% Fiber, ID = 56
+Modulus = 2.825, Thickness = 0.03614457831325301, Cost = 135.66551204819277
+Name = E-Glass-Polyester Fiber, Grade 1, 60% Fiber, ID = 57
+Modulus = 3.31, Thickness = 0.03012048192771084, Cost = 134.01867469879517
+Name = E-Glass-Polyester Fiber, Grade 2, 40% Fiber, ID = 58
+Modulus = 2.34, Thickness = 0.14558232931726905, Cost = 195.10414156626507
+Name = E-Glass-Polyester Fiber, Grade 2, 50% Fiber, ID = 59
+Modulus = 2.825, Thickness = 0.11646586345381527, Cost = 187.1444277108434
+Name = E-Glass-Polyester Fiber, Grade 2, 60% Fiber, ID = 60
+Modulus = 3.31, Thickness = 0.0970548862115127, Cost = 181.8379518072289
+Name = E-Glass-Polyester Fiber, Grade 3, 40% Fiber, ID = 61
+Modulus = 2.34, Thickness = 0.19076305220883533, Cost = 220.7399096385542
+Name = E-Glass-Polyester Fiber, Grade 3, 50% Fiber, ID = 62
+Modulus = 2.825, Thickness = 0.15261044176706828, Cost = 210.30993975903615
+Name = E-Glass-Polyester Fiber, Grade 3, 60% Fiber, ID = 63
+Modulus = 3.31, Thickness = 0.12717536813922353, Cost = 203.3566265060241
+Name = S2-Glass-Polyester Fiber, Grade 1, 40% Fiber, ID = 64
+Modulus = 2.76, Thickness = 0.05113636363636364, Cost = 148.22514204545456
+Name = S2-Glass-Polyester Fiber, Grade 1, 50% Fiber, ID = 65
+Modulus = 3.35, Thickness = 0.04090909090909091, Cost = 145.42926136363636
+Name = S2-Glass-Polyester Fiber, Grade 1, 60% Fiber, ID = 66
+Modulus = 3.94, Thickness = 0.03409090909090909, Cost = 143.5653409090909
+Name = S2-Glass-Polyester Fiber, Grade 2, 40% Fiber, ID = 67
+Modulus = 2.76, Thickness = 0.16477272727272727, Cost = 227.61434659090907
+Name = S2-Glass-Polyester Fiber, Grade 2, 50% Fiber, ID = 68
+Modulus = 3.35, Thickness = 0.1318181818181818, Cost = 218.60539772727273
+Name = S2-Glass-Polyester Fiber, Grade 2, 60% Fiber, ID = 69
+Modulus = 3.94, Thickness = 0.10984848484848485, Cost = 212.5994318181818
+Name = S2-Glass-Polyester Fiber, Grade 3, 40% Fiber, ID = 70
+Modulus = 2.76, Thickness = 0.2159090909090909, Cost = 263.3394886363636
+Name = S2-Glass-Polyester Fiber, Grade 3, 50% Fiber, ID = 71
+Modulus = 3.35, Thickness = 0.17272727272727273, Cost = 251.53465909090914
+Name = S2-Glass-Polyester Fiber, Grade 3, 60% Fiber, ID = 72
+Modulus = 3.94, Thickness = 0.14393939393939395, Cost = 243.66477272727275
+Name = SM Carbon-Polyester Fiber, Grade 1, 40% Fiber, ID = 73
+Modulus = 6.840000000000001, Thickness = 0.06320224719101124, Cost = 159.3167485955056
+Name = SM Carbon-Polyester Fiber, Grade 1, 50% Fiber, ID = 74
+Modulus = 8.45, Thickness = 0.05056179775280899, Cost = 155.86116573033706
+Name = SM Carbon-Polyester Fiber, Grade 1, 60% Fiber, ID = 75
+Modulus = 10.06, Thickness = 0.042134831460674156, Cost = 153.5574438202247
+Name = SM Carbon-Polyester Fiber, Grade 2, 40% Fiber, ID = 76
+Modulus = 6.840000000000001, Thickness = 0.20365168539325842, Cost = 263.35396769662924
+Name = SM Carbon-Polyester Fiber, Grade 2, 50% Fiber, ID = 77
+Modulus = 8.45, Thickness = 0.16292134831460675, Cost = 252.21931179775282
+Name = SM Carbon-Polyester Fiber, Grade 2, 60% Fiber, ID = 78
+Modulus = 10.06, Thickness = 0.13576779026217228, Cost = 244.79620786516853
+Name = SM Carbon-Polyester Fiber, Grade 3, 40% Fiber, ID = 79
+Modulus = 6.840000000000001, Thickness = 0.26685393258426965, Cost = 310.17071629213484
+Name = SM Carbon-Polyester Fiber, Grade 3, 50% Fiber, ID = 80
+Modulus = 8.45, Thickness = 0.21348314606741572, Cost = 295.5804775280899
+Name = SM Carbon-Polyester Fiber, Grade 3, 60% Fiber, ID = 81
+Modulus = 10.06, Thickness = 0.17790262172284643, Cost = 285.8536516853933
+Name = IM Carbon-Polyester Fiber, Grade 1, 40% Fiber, ID = 82
+Modulus = 8.440000000000001, Thickness = 0.062154696132596686, Cost = 195.5949240331492
+Name = IM Carbon-Polyester Fiber, Grade 1, 50% Fiber, ID = 83
+Modulus = 10.45, Thickness = 0.04972375690607734, Cost = 192.19661602209942
+Name = IM Carbon-Polyester Fiber, Grade 1, 60% Fiber, ID = 84
+Modulus = 12.459999999999999, Thickness = 0.04143646408839779, Cost = 189.9310773480663
+Name = IM Carbon-Polyester Fiber, Grade 2, 40% Fiber, ID = 85
+Modulus = 8.440000000000001, Thickness = 0.20027624309392264, Cost = 380.2503107734807
+Name = IM Carbon-Polyester Fiber, Grade 2, 50% Fiber, ID = 86
+Modulus = 10.45, Thickness = 0.1602209944751381, Cost = 369.30020718232043
+Name = IM Carbon-Polyester Fiber, Grade 2, 60% Fiber, ID = 87
+Modulus = 12.459999999999999, Thickness = 0.13351749539594843, Cost = 362.0001381215469
+Name = IM Carbon-Polyester Fiber, Grade 3, 40% Fiber, ID = 88
+Modulus = 8.440000000000001, Thickness = 0.26243093922651933, Cost = 463.34523480662995
+Name = IM Carbon-Polyester Fiber, Grade 3, 50% Fiber, ID = 89
+Modulus = 10.45, Thickness = 0.20994475138121543, Cost = 448.99682320441985
+Name = IM Carbon-Polyester Fiber, Grade 3, 60% Fiber, ID = 90
+Modulus = 12.459999999999999, Thickness = 0.17495395948434622, Cost = 439.43121546961333
+Name = HM Carbon-Polyester Fiber, Grade 1, 40% Fiber, ID = 91
+Modulus = 12.840000000000002, Thickness = 0.06114130434782608, Cost = 304.77870244565224
+Name = HM Carbon-Polyester Fiber, Grade 1, 50% Fiber, ID = 92
+Modulus = 15.95, Thickness = 0.048913043478260865, Cost = 301.4358016304348
+Name = HM Carbon-Polyester Fiber, Grade 1, 60% Fiber, ID = 93
+Modulus = 19.06, Thickness = 0.040760869565217385, Cost = 299.2072010869565
+Name = HM Carbon-Polyester Fiber, Grade 2, 40% Fiber, ID = 94
+Modulus = 12.840000000000002, Thickness = 0.19701086956521735, Cost = 732.0647078804346
+Name = HM Carbon-Polyester Fiber, Grade 2, 50% Fiber, ID = 95
+Modulus = 15.95, Thickness = 0.1576086956521739, Cost = 721.2931385869565
+Name = HM Carbon-Polyester Fiber, Grade 2, 60% Fiber, ID = 96
+Modulus = 19.06, Thickness = 0.1313405797101449, Cost = 714.1120923913043
+Name = HM Carbon-Polyester Fiber, Grade 3, 40% Fiber, ID = 97
+Modulus = 12.840000000000002, Thickness = 0.25815217391304346, Cost = 924.343410326087
+Name = HM Carbon-Polyester Fiber, Grade 3, 50% Fiber, ID = 98
+Modulus = 15.95, Thickness = 0.20652173913043476, Cost = 910.2289402173913
+Name = HM Carbon-Polyester Fiber, Grade 3, 60% Fiber, ID = 99
+Modulus = 19.06, Thickness = 0.17210144927536228, Cost = 900.8192934782606
+Name = E-Glass-Epoxy Fiber, Grade 1, 40% Fiber, ID = 100
+Modulus = 2.43, Thickness = 0.04518072289156626, Cost = 143.8996987951807
+Name = E-Glass-Epoxy Fiber, Grade 1, 50% Fiber, ID = 101
+Modulus = 2.9, Thickness = 0.03614457831325301, Cost = 139.5081325301205
+Name = E-Glass-Epoxy Fiber, Grade 1, 60% Fiber, ID = 102
+Modulus = 3.37, Thickness = 0.03012048192771084, Cost = 136.580421686747
+Name = E-Glass-Epoxy Fiber, Grade 2, 40% Fiber, ID = 103
+Modulus = 2.43, Thickness = 0.14558232931726905, Cost = 213.67680722891566
+Name = E-Glass-Epoxy Fiber, Grade 2, 50% Fiber, ID = 104
+Modulus = 2.9, Thickness = 0.11646586345381527, Cost = 199.5262048192771
+Name = E-Glass-Epoxy Fiber, Grade 2, 60% Fiber, ID = 105
+Modulus = 3.37, Thickness = 0.0970548862115127, Cost = 190.09246987951806
+Name = E-Glass-Epoxy Fiber, Grade 3, 40% Fiber, ID = 106
+Modulus = 2.43, Thickness = 0.19076305220883533, Cost = 245.07650602409637
+Name = E-Glass-Epoxy Fiber, Grade 3, 50% Fiber, ID = 107
+Modulus = 2.9, Thickness = 0.15261044176706828, Cost = 226.53433734939762
+Name = E-Glass-Epoxy Fiber, Grade 3, 60% Fiber, ID = 108
+Modulus = 3.37, Thickness = 0.12717536813922353, Cost = 214.17289156626504
+Name = S2-Glass-Epoxy Fiber, Grade 1, 40% Fiber, ID = 109
+Modulus = 2.85, Thickness = 0.05113636363636364, Cost = 154.74886363636364
+Name = S2-Glass-Epoxy Fiber, Grade 1, 50% Fiber, ID = 110
+Modulus = 3.425, Thickness = 0.04090909090909091, Cost = 149.7784090909091
+Name = S2-Glass-Epoxy Fiber, Grade 1, 60% Fiber, ID = 111
+Modulus = 4.0, Thickness = 0.03409090909090909, Cost = 146.46477272727273
+Name = S2-Glass-Epoxy Fiber, Grade 2, 40% Fiber, ID = 112
+Modulus = 2.85, Thickness = 0.16477272727272727, Cost = 248.63522727272726
+Name = S2-Glass-Epoxy Fiber, Grade 2, 50% Fiber, ID = 113
+Modulus = 3.425, Thickness = 0.1318181818181818, Cost = 232.6193181818182
+Name = S2-Glass-Epoxy Fiber, Grade 2, 60% Fiber, ID = 114
+Modulus = 4.0, Thickness = 0.10984848484848485, Cost = 221.94204545454545
+Name = S2-Glass-Epoxy Fiber, Grade 3, 40% Fiber, ID = 115
+Modulus = 2.85, Thickness = 0.2159090909090909, Cost = 290.8840909090909
+Name = S2-Glass-Epoxy Fiber, Grade 3, 50% Fiber, ID = 116
+Modulus = 3.425, Thickness = 0.17272727272727273, Cost = 269.8977272727273
+Name = S2-Glass-Epoxy Fiber, Grade 3, 60% Fiber, ID = 117
+Modulus = 4.0, Thickness = 0.14393939393939395, Cost = 255.9068181818182
+Name = SM Carbon-Epoxy Fiber, Grade 1, 40% Fiber, ID = 118
+Modulus = 6.930000000000001, Thickness = 0.06320224719101124, Cost = 167.37977528089885
+Name = SM Carbon-Epoxy Fiber, Grade 1, 50% Fiber, ID = 119
+Modulus = 8.525, Thickness = 0.05056179775280899, Cost = 161.23651685393259
+Name = SM Carbon-Epoxy Fiber, Grade 1, 60% Fiber, ID = 120
+Modulus = 10.120000000000001, Thickness = 0.042134831460674156, Cost = 157.14101123595506
+Name = SM Carbon-Epoxy Fiber, Grade 2, 40% Fiber, ID = 121
+Modulus = 6.930000000000001, Thickness = 0.20365168539325842, Cost = 289.3348314606742
+Name = SM Carbon-Epoxy Fiber, Grade 2, 50% Fiber, ID = 122
+Modulus = 8.525, Thickness = 0.16292134831460675, Cost = 269.5398876404495
+Name = SM Carbon-Epoxy Fiber, Grade 2, 60% Fiber, ID = 123
+Modulus = 10.120000000000001, Thickness = 0.13576779026217228, Cost = 256.34325842696626
+Name = SM Carbon-Epoxy Fiber, Grade 3, 40% Fiber, ID = 124
+Modulus = 6.930000000000001, Thickness = 0.26685393258426965, Cost = 344.2146067415731
+Name = SM Carbon-Epoxy Fiber, Grade 3, 50% Fiber, ID = 125
+Modulus = 8.525, Thickness = 0.21348314606741572, Cost = 318.276404494382
+Name = SM Carbon-Epoxy Fiber, Grade 3, 60% Fiber, ID = 126
+Modulus = 10.120000000000001, Thickness = 0.17790262172284643, Cost = 300.98426966292135
+Name = IM Carbon-Epoxy Fiber, Grade 1, 40% Fiber, ID = 127
+Modulus = 8.530000000000001, Thickness = 0.062154696132596686, Cost = 203.5243093922652
+Name = IM Carbon-Epoxy Fiber, Grade 1, 50% Fiber, ID = 128
+Modulus = 10.525, Thickness = 0.04972375690607734, Cost = 197.4828729281768
+Name = IM Carbon-Epoxy Fiber, Grade 1, 60% Fiber, ID = 129
+Modulus = 12.52, Thickness = 0.04143646408839779, Cost = 193.45524861878454
+Name = IM Carbon-Epoxy Fiber, Grade 2, 40% Fiber, ID = 130
+Modulus = 8.530000000000001, Thickness = 0.20027624309392264, Cost = 405.8005524861879
+Name = IM Carbon-Epoxy Fiber, Grade 2, 50% Fiber, ID = 131
+Modulus = 10.525, Thickness = 0.1602209944751381, Cost = 386.33370165745856
+Name = IM Carbon-Epoxy Fiber, Grade 2, 60% Fiber, ID = 132
+Modulus = 12.52, Thickness = 0.13351749539594843, Cost = 373.35580110497233
+Name = IM Carbon-Epoxy Fiber, Grade 3, 40% Fiber, ID = 133
+Modulus = 8.530000000000001, Thickness = 0.26243093922651933, Cost = 496.8248618784531
+Name = IM Carbon-Epoxy Fiber, Grade 3, 50% Fiber, ID = 134
+Modulus = 10.525, Thickness = 0.20994475138121543, Cost = 471.3165745856353
+Name = IM Carbon-Epoxy Fiber, Grade 3, 60% Fiber, ID = 135
+Modulus = 12.52, Thickness = 0.17495395948434622, Cost = 454.311049723757
+Name = HM Carbon-Epoxy Fiber, Grade 1, 40% Fiber, ID = 136
+Modulus = 12.930000000000001, Thickness = 0.06114130434782608, Cost = 312.5788043478261
+Name = HM Carbon-Epoxy Fiber, Grade 1, 50% Fiber, ID = 137
+Modulus = 16.025, Thickness = 0.048913043478260865, Cost = 306.63586956521743
+Name = HM Carbon-Epoxy Fiber, Grade 1, 60% Fiber, ID = 138
+Modulus = 19.119999999999997, Thickness = 0.040760869565217385, Cost = 302.67391304347825
+Name = HM Carbon-Epoxy Fiber, Grade 2, 40% Fiber, ID = 139
+Modulus = 12.930000000000001, Thickness = 0.19701086956521735, Cost = 757.1983695652173
+Name = HM Carbon-Epoxy Fiber, Grade 2, 50% Fiber, ID = 140
+Modulus = 16.025, Thickness = 0.1576086956521739, Cost = 738.0489130434783
+Name = HM Carbon-Epoxy Fiber, Grade 2, 60% Fiber, ID = 141
+Modulus = 19.119999999999997, Thickness = 0.1313405797101449, Cost = 725.282608695652
+Name = HM Carbon-Epoxy Fiber, Grade 3, 40% Fiber, ID = 142
+Modulus = 12.930000000000001, Thickness = 0.25815217391304346, Cost = 957.2771739130436
+Name = HM Carbon-Epoxy Fiber, Grade 3, 50% Fiber, ID = 143
+Modulus = 16.025, Thickness = 0.20652173913043476, Cost = 932.1847826086955
+Name = HM Carbon-Epoxy Fiber, Grade 3, 60% Fiber, ID = 144
+Modulus = 19.119999999999997, Thickness = 0.17210144927536228, Cost = 915.4565217391303
+Name = E-Glass-Tough Epoxy Fiber, Grade 1, 40% Fiber, ID = 145
+Modulus = 2.37, Thickness = 0.04518072289156626, Cost = 152.13388554216868
+Name = E-Glass-Tough Epoxy Fiber, Grade 1, 50% Fiber, ID = 146
+Modulus = 2.85, Thickness = 0.03614457831325301, Cost = 144.9975903614458
+Name = E-Glass-Tough Epoxy Fiber, Grade 1, 60% Fiber, ID = 147
+Modulus = 3.33, Thickness = 0.03012048192771084, Cost = 140.24006024096386
+Name = E-Glass-Tough Epoxy Fiber, Grade 2, 40% Fiber, ID = 148
+Modulus = 2.37, Thickness = 0.14558232931726905, Cost = 240.20918674698794
+Name = E-Glass-Tough Epoxy Fiber, Grade 2, 50% Fiber, ID = 149
+Modulus = 2.85, Thickness = 0.11646586345381527, Cost = 217.21445783132532
+Name = E-Glass-Tough Epoxy Fiber, Grade 2, 60% Fiber, ID = 150
+Modulus = 3.33, Thickness = 0.0970548862115127, Cost = 201.88463855421685
+Name = E-Glass-Tough Epoxy Fiber, Grade 3, 40% Fiber, ID = 151
+Modulus = 2.37, Thickness = 0.19076305220883533, Cost = 279.8430722891566
+Name = E-Glass-Tough Epoxy Fiber, Grade 3, 50% Fiber, ID = 152
+Modulus = 2.85, Thickness = 0.15261044176706828, Cost = 249.7120481927711
+Name = E-Glass-Tough Epoxy Fiber, Grade 3, 60% Fiber, ID = 153
+Modulus = 3.33, Thickness = 0.12717536813922353, Cost = 229.6246987951807
+Name = S2-Glass-Tough Epoxy Fiber, Grade 1, 40% Fiber, ID = 154
+Modulus = 2.79, Thickness = 0.05113636363636364, Cost = 164.06846590909092
+Name = S2-Glass-Tough Epoxy Fiber, Grade 1, 50% Fiber, ID = 155
+Modulus = 3.375, Thickness = 0.04090909090909091, Cost = 155.99147727272725
+Name = S2-Glass-Tough Epoxy Fiber, Grade 1, 60% Fiber, ID = 156
+Modulus = 3.96, Thickness = 0.03409090909090909, Cost = 150.6068181818182
+Name = S2-Glass-Tough Epoxy Fiber, Grade 2, 40% Fiber, ID = 157
+Modulus = 2.79, Thickness = 0.16477272727272727, Cost = 278.6650568181818
+Name = S2-Glass-Tough Epoxy Fiber, Grade 2, 50% Fiber, ID = 158
+Modulus = 3.375, Thickness = 0.1318181818181818, Cost = 252.63920454545453
+Name = S2-Glass-Tough Epoxy Fiber, Grade 2, 60% Fiber, ID = 159
+Modulus = 3.96, Thickness = 0.10984848484848485, Cost = 235.28863636363636
+Name = S2-Glass-Tough Epoxy Fiber, Grade 3, 40% Fiber, ID = 160
+Modulus = 2.79, Thickness = 0.2159090909090909, Cost = 330.23352272727277
+Name = S2-Glass-Tough Epoxy Fiber, Grade 3, 50% Fiber, ID = 161
+Modulus = 3.375, Thickness = 0.17272727272727273, Cost = 296.13068181818187
+Name = S2-Glass-Tough Epoxy Fiber, Grade 3, 60% Fiber, ID = 162
+Modulus = 3.96, Thickness = 0.14393939393939395, Cost = 273.3954545454546
+Name = SM Carbon-Tough Epoxy Fiber, Grade 1, 40% Fiber, ID = 163
+Modulus = 6.870000000000001, Thickness = 0.06320224719101124, Cost = 178.89838483146067
+Name = SM Carbon-Tough Epoxy Fiber, Grade 1, 50% Fiber, ID = 164
+Modulus = 8.475, Thickness = 0.05056179775280899, Cost = 168.91558988764046
+Name = SM Carbon-Tough Epoxy Fiber, Grade 1, 60% Fiber, ID = 165
+Modulus = 10.08, Thickness = 0.042134831460674156, Cost = 162.26039325842697
+Name = SM Carbon-Tough Epoxy Fiber, Grade 2, 40% Fiber, ID = 166
+Modulus = 6.870000000000001, Thickness = 0.20365168539325842, Cost = 326.4503511235955
+Name = SM Carbon-Tough Epoxy Fiber, Grade 2, 50% Fiber, ID = 167
+Modulus = 8.475, Thickness = 0.16292134831460675, Cost = 294.2835674157304
+Name = SM Carbon-Tough Epoxy Fiber, Grade 2, 60% Fiber, ID = 168
+Modulus = 10.08, Thickness = 0.13576779026217228, Cost = 272.8390449438202
+Name = SM Carbon-Tough Epoxy Fiber, Grade 3, 40% Fiber, ID = 169
+Modulus = 6.870000000000001, Thickness = 0.26685393258426965, Cost = 392.8487359550562
+Name = SM Carbon-Tough Epoxy Fiber, Grade 3, 50% Fiber, ID = 170
+Modulus = 8.475, Thickness = 0.21348314606741572, Cost = 350.6991573033708
+Name = SM Carbon-Tough Epoxy Fiber, Grade 3, 60% Fiber, ID = 171
+Modulus = 10.08, Thickness = 0.17790262172284643, Cost = 322.5994382022472
+Name = IM Carbon-Tough Epoxy Fiber, Grade 1, 40% Fiber, ID = 172
+Modulus = 8.47, Thickness = 0.062154696132596686, Cost = 214.85200276243094
+Name = IM Carbon-Tough Epoxy Fiber, Grade 1, 50% Fiber, ID = 173
+Modulus = 10.475, Thickness = 0.04972375690607734, Cost = 205.03466850828727
+Name = IM Carbon-Tough Epoxy Fiber, Grade 1, 60% Fiber, ID = 174
+Modulus = 12.479999999999999, Thickness = 0.04143646408839779, Cost = 198.48977900552487
+Name = IM Carbon-Tough Epoxy Fiber, Grade 2, 40% Fiber, ID = 175
+Modulus = 8.47, Thickness = 0.20027624309392264, Cost = 442.3008977900553
+Name = IM Carbon-Tough Epoxy Fiber, Grade 2, 50% Fiber, ID = 176
+Modulus = 10.475, Thickness = 0.1602209944751381, Cost = 410.66726519337016
+Name = IM Carbon-Tough Epoxy Fiber, Grade 2, 60% Fiber, ID = 177
+Modulus = 12.479999999999999, Thickness = 0.13351749539594843, Cost = 389.5781767955801
+Name = IM Carbon-Tough Epoxy Fiber, Grade 3, 40% Fiber, ID = 178
+Modulus = 8.47, Thickness = 0.26243093922651933, Cost = 544.6529005524862
+Name = IM Carbon-Tough Epoxy Fiber, Grade 3, 50% Fiber, ID = 179
+Modulus = 10.475, Thickness = 0.20994475138121543, Cost = 503.2019337016574
+Name = IM Carbon-Tough Epoxy Fiber, Grade 3, 60% Fiber, ID = 180
+Modulus = 12.479999999999999, Thickness = 0.17495395948434622, Cost = 475.56795580110503
+Name = HM Carbon-Tough Epoxy Fiber, Grade 1, 40% Fiber, ID = 181
+Modulus = 12.870000000000001, Thickness = 0.06114130434782608, Cost = 323.72180706521743
+Name = HM Carbon-Tough Epoxy Fiber, Grade 1, 50% Fiber, ID = 182
+Modulus = 15.975, Thickness = 0.048913043478260865, Cost = 314.06453804347825
+Name = HM Carbon-Tough Epoxy Fiber, Grade 1, 60% Fiber, ID = 183
+Modulus = 19.08, Thickness = 0.040760869565217385, Cost = 307.62635869565213
+Name = HM Carbon-Tough Epoxy Fiber, Grade 2, 40% Fiber, ID = 184
+Modulus = 12.870000000000001, Thickness = 0.19701086956521735, Cost = 793.1036005434783
+Name = HM Carbon-Tough Epoxy Fiber, Grade 2, 50% Fiber, ID = 185
+Modulus = 15.975, Thickness = 0.1576086956521739, Cost = 761.9857336956521
+Name = HM Carbon-Tough Epoxy Fiber, Grade 2, 60% Fiber, ID = 186
+Modulus = 19.08, Thickness = 0.1313405797101449, Cost = 741.2404891304346
+Name = HM Carbon-Tough Epoxy Fiber, Grade 3, 40% Fiber, ID = 187
+Modulus = 12.870000000000001, Thickness = 0.25815217391304346, Cost = 1004.3254076086957
+Name = HM Carbon-Tough Epoxy Fiber, Grade 3, 50% Fiber, ID = 188
+Modulus = 15.975, Thickness = 0.20652173913043476, Cost = 963.5502717391305
+Name = HM Carbon-Tough Epoxy Fiber, Grade 3, 60% Fiber, ID = 189
+Modulus = 19.08, Thickness = 0.17210144927536228, Cost = 936.3668478260868
+Name = E-Glass-Cyanate Ester Fiber, Grade 1, 40% Fiber, ID = 190
+Modulus = 2.4, Thickness = 0.04518072289156626, Cost = 188.38727409638554
+Name = E-Glass-Cyanate Ester Fiber, Grade 1, 50% Fiber, ID = 191
+Modulus = 2.875, Thickness = 0.03614457831325301, Cost = 177.49984939759037
+Name = E-Glass-Cyanate Ester Fiber, Grade 1, 60% Fiber, ID = 192
+Modulus = 3.35, Thickness = 0.03012048192771084, Cost = 170.24156626506024
+Name = E-Glass-Cyanate Ester Fiber, Grade 2, 40% Fiber, ID = 193
+Modulus = 2.4, Thickness = 0.14558232931726905, Cost = 301.47010542168675
+Name = E-Glass-Cyanate Ester Fiber, Grade 2, 50% Fiber, ID = 194
+Modulus = 2.875, Thickness = 0.11646586345381527, Cost = 266.38840361445784
+Name = E-Glass-Cyanate Ester Fiber, Grade 2, 60% Fiber, ID = 195
+Modulus = 3.35, Thickness = 0.0970548862115127, Cost = 243.00060240963856
+Name = E-Glass-Cyanate Ester Fiber, Grade 3, 40% Fiber, ID = 196
+Modulus = 2.4, Thickness = 0.19076305220883533, Cost = 352.35737951807226
+Name = E-Glass-Cyanate Ester Fiber, Grade 3, 50% Fiber, ID = 197
+Modulus = 2.875, Thickness = 0.15261044176706828, Cost = 306.3882530120482
+Name = E-Glass-Cyanate Ester Fiber, Grade 3, 60% Fiber, ID = 198
+Modulus = 3.35, Thickness = 0.12717536813922353, Cost = 275.74216867469875
+Name = S2-Glass-Cyanate Ester Fiber, Grade 1, 40% Fiber, ID = 199
+Modulus = 2.82, Thickness = 0.05113636363636364, Cost = 201.80525568181818
+Name = S2-Glass-Cyanate Ester Fiber, Grade 1, 50% Fiber, ID = 200
+Modulus = 3.4, Thickness = 0.04090909090909091, Cost = 189.48267045454546
+Name = S2-Glass-Cyanate Ester Fiber, Grade 1, 60% Fiber, ID = 201
+Modulus = 3.98, Thickness = 0.03409090909090909, Cost = 181.26761363636365
+Name = S2-Glass-Cyanate Ester Fiber, Grade 2, 40% Fiber, ID = 202
+Modulus = 2.82, Thickness = 0.16477272727272727, Cost = 344.7058238636364
+Name = S2-Glass-Cyanate Ester Fiber, Grade 2, 50% Fiber, ID = 203
+Modulus = 3.4, Thickness = 0.1318181818181818, Cost = 304.9997159090909
+Name = S2-Glass-Cyanate Ester Fiber, Grade 2, 60% Fiber, ID = 204
+Modulus = 3.98, Thickness = 0.10984848484848485, Cost = 278.5289772727273
+Name = S2-Glass-Cyanate Ester Fiber, Grade 3, 40% Fiber, ID = 205
+Modulus = 2.82, Thickness = 0.2159090909090909, Cost = 409.01107954545455
+Name = S2-Glass-Cyanate Ester Fiber, Grade 3, 50% Fiber, ID = 206
+Modulus = 3.4, Thickness = 0.17272727272727273, Cost = 356.9823863636364
+Name = S2-Glass-Cyanate Ester Fiber, Grade 3, 60% Fiber, ID = 207
+Modulus = 3.98, Thickness = 0.14393939393939395, Cost = 322.2965909090909
+Name = SM Carbon-Cyanate Ester Fiber, Grade 1, 40% Fiber, ID = 208
+Modulus = 6.9, Thickness = 0.06320224719101124, Cost = 219.64048455056178
+Name = SM Carbon-Cyanate Ester Fiber, Grade 1, 50% Fiber, ID = 209
+Modulus = 8.5, Thickness = 0.05056179775280899, Cost = 204.41032303370787
+Name = SM Carbon-Cyanate Ester Fiber, Grade 1, 60% Fiber, ID = 210
+Modulus = 10.1, Thickness = 0.042134831460674156, Cost = 194.25688202247193
+Name = SM Carbon-Cyanate Ester Fiber, Grade 2, 40% Fiber, ID = 211
+Modulus = 6.9, Thickness = 0.20365168539325842, Cost = 402.17489466292136
+Name = SM Carbon-Cyanate Ester Fiber, Grade 2, 50% Fiber, ID = 212
+Modulus = 8.5, Thickness = 0.16292134831460675, Cost = 353.09992977528094
+Name = SM Carbon-Cyanate Ester Fiber, Grade 2, 60% Fiber, ID = 213
+Modulus = 10.1, Thickness = 0.13576779026217228, Cost = 320.3832865168539
+Name = SM Carbon-Cyanate Ester Fiber, Grade 3, 40% Fiber, ID = 214
+Modulus = 6.9, Thickness = 0.26685393258426965, Cost = 484.31537921348314
+Name = SM Carbon-Cyanate Ester Fiber, Grade 3, 50% Fiber, ID = 215
+Modulus = 8.5, Thickness = 0.21348314606741572, Cost = 420.01025280898875
+Name = SM Carbon-Cyanate Ester Fiber, Grade 3, 60% Fiber, ID = 216
+Modulus = 10.1, Thickness = 0.17790262172284643, Cost = 377.1401685393258
+Name = IM Carbon-Cyanate Ester Fiber, Grade 1, 40% Fiber, ID = 217
+Modulus = 8.500000000000002, Thickness = 0.062154696132596686, Cost = 255.33318370165748
+Name = IM Carbon-Cyanate Ester Fiber, Grade 1, 50% Fiber, ID = 218
+Modulus = 10.5, Thickness = 0.04972375690607734, Cost = 240.35545580110497
+Name = IM Carbon-Cyanate Ester Fiber, Grade 1, 60% Fiber, ID = 219
+Modulus = 12.499999999999998, Thickness = 0.04143646408839779, Cost = 230.37030386740332
+Name = IM Carbon-Cyanate Ester Fiber, Grade 2, 40% Fiber, ID = 220
+Modulus = 8.500000000000002, Thickness = 0.20027624309392264, Cost = 517.1847030386741
+Name = IM Carbon-Cyanate Ester Fiber, Grade 2, 50% Fiber, ID = 221
+Modulus = 10.5, Thickness = 0.1602209944751381, Cost = 468.92313535911603
+Name = IM Carbon-Cyanate Ester Fiber, Grade 2, 60% Fiber, ID = 222
+Modulus = 12.499999999999998, Thickness = 0.13351749539594843, Cost = 436.74875690607735
+Name = IM Carbon-Cyanate Ester Fiber, Grade 3, 40% Fiber, ID = 223
+Modulus = 8.500000000000002, Thickness = 0.26243093922651933, Cost = 635.0178867403316
+Name = IM Carbon-Cyanate Ester Fiber, Grade 3, 50% Fiber, ID = 224
+Modulus = 10.5, Thickness = 0.20994475138121543, Cost = 571.7785911602209
+Name = IM Carbon-Cyanate Ester Fiber, Grade 3, 60% Fiber, ID = 225
+Modulus = 12.499999999999998, Thickness = 0.17495395948434622, Cost = 529.6190607734808
+Name = HM Carbon-Cyanate Ester Fiber, Grade 1, 40% Fiber, ID = 226
+Modulus = 12.900000000000002, Thickness = 0.06114130434782608, Cost = 363.9505774456522
+Name = HM Carbon-Cyanate Ester Fiber, Grade 1, 50% Fiber, ID = 227
+Modulus = 16.0, Thickness = 0.048913043478260865, Cost = 349.2170516304348
+Name = HM Carbon-Cyanate Ester Fiber, Grade 1, 60% Fiber, ID = 228
+Modulus = 19.099999999999998, Thickness = 0.040760869565217385, Cost = 339.3947010869565
+Name = HM Carbon-Cyanate Ester Fiber, Grade 2, 40% Fiber, ID = 229
+Modulus = 12.900000000000002, Thickness = 0.19701086956521735, Cost = 867.1740828804346
+Name = HM Carbon-Cyanate Ester Fiber, Grade 2, 50% Fiber, ID = 230
+Modulus = 16.0, Thickness = 0.1576086956521739, Cost = 819.6993885869565
+Name = HM Carbon-Cyanate Ester Fiber, Grade 2, 60% Fiber, ID = 231
+Modulus = 19.099999999999998, Thickness = 0.1313405797101449, Cost = 788.0495923913043
+Name = HM Carbon-Cyanate Ester Fiber, Grade 3, 40% Fiber, ID = 232
+Modulus = 12.900000000000002, Thickness = 0.25815217391304346, Cost = 1093.624660326087
+Name = HM Carbon-Cyanate Ester Fiber, Grade 3, 50% Fiber, ID = 233
+Modulus = 16.0, Thickness = 0.20652173913043476, Cost = 1031.4164402173913
+Name = HM Carbon-Cyanate Ester Fiber, Grade 3, 60% Fiber, ID = 234
+Modulus = 19.099999999999998, Thickness = 0.17210144927536228, Cost = 989.9442934782606
+Name = E-Glass-Bismaelimide Fiber, Grade 1, 40% Fiber, ID = 235
+Modulus = 2.46, Thickness = 0.04518072289156626, Cost = 207.9527108433735
+Name = E-Glass-Bismaelimide Fiber, Grade 1, 50% Fiber, ID = 236
+Modulus = 2.925, Thickness = 0.03614457831325301, Cost = 198.87680722891565
+Name = E-Glass-Bismaelimide Fiber, Grade 1, 60% Fiber, ID = 237
+Modulus = 3.3899999999999997, Thickness = 0.03012048192771084, Cost = 192.8262048192771
+Name = E-Glass-Bismaelimide Fiber, Grade 2, 40% Fiber, ID = 238
+Modulus = 2.46, Thickness = 0.14558232931726905, Cost = 308.958734939759
+Name = E-Glass-Bismaelimide Fiber, Grade 2, 50% Fiber, ID = 239
+Modulus = 2.925, Thickness = 0.11646586345381527, Cost = 279.714156626506
+Name = E-Glass-Bismaelimide Fiber, Grade 2, 60% Fiber, ID = 240
+Modulus = 3.3899999999999997, Thickness = 0.0970548862115127, Cost = 260.2177710843373
+Name = E-Glass-Bismaelimide Fiber, Grade 3, 40% Fiber, ID = 241
+Modulus = 2.46, Thickness = 0.19076305220883533, Cost = 354.41144578313254
+Name = E-Glass-Bismaelimide Fiber, Grade 3, 50% Fiber, ID = 242
+Modulus = 2.925, Thickness = 0.15261044176706828, Cost = 316.0909638554217
+Name = E-Glass-Bismaelimide Fiber, Grade 3, 60% Fiber, ID = 243
+Modulus = 3.3899999999999997, Thickness = 0.12717536813922353, Cost = 290.5439759036144
+Name = S2-Glass-Bismaelimide Fiber, Grade 1, 40% Fiber, ID = 244
+Modulus = 2.88, Thickness = 0.05113636363636364, Cost = 220.6543181818182
+Name = S2-Glass-Bismaelimide Fiber, Grade 1, 50% Fiber, ID = 245
+Modulus = 3.4499999999999997, Thickness = 0.04090909090909091, Cost = 210.38204545454545
+Name = S2-Glass-Bismaelimide Fiber, Grade 1, 60% Fiber, ID = 246
+Modulus = 4.02, Thickness = 0.03409090909090909, Cost = 203.53386363636363
+Name = S2-Glass-Bismaelimide Fiber, Grade 2, 40% Fiber, ID = 247
+Modulus = 2.88, Thickness = 0.16477272727272727, Cost = 349.88613636363635
+Name = S2-Glass-Bismaelimide Fiber, Grade 2, 50% Fiber, ID = 248
+Modulus = 3.4499999999999997, Thickness = 0.1318181818181818, Cost = 316.7865909090909
+Name = S2-Glass-Bismaelimide Fiber, Grade 2, 60% Fiber, ID = 249
+Modulus = 4.02, Thickness = 0.10984848484848485, Cost = 294.7202272727273
+Name = S2-Glass-Bismaelimide Fiber, Grade 3, 40% Fiber, ID = 250
+Modulus = 2.88, Thickness = 0.2159090909090909, Cost = 408.04045454545457
+Name = S2-Glass-Bismaelimide Fiber, Grade 3, 50% Fiber, ID = 251
+Modulus = 3.4499999999999997, Thickness = 0.17272727272727273, Cost = 364.66863636363644
+Name = S2-Glass-Bismaelimide Fiber, Grade 3, 60% Fiber, ID = 252
+Modulus = 4.02, Thickness = 0.14393939393939395, Cost = 335.75409090909096
+Name = SM Carbon-Bismaelimide Fiber, Grade 1, 40% Fiber, ID = 253
+Modulus = 6.960000000000001, Thickness = 0.06320224719101124, Cost = 237.038202247191
+Name = SM Carbon-Bismaelimide Fiber, Grade 1, 50% Fiber, ID = 254
+Modulus = 8.55, Thickness = 0.05056179775280899, Cost = 224.34213483146067
+Name = SM Carbon-Bismaelimide Fiber, Grade 1, 60% Fiber, ID = 255
+Modulus = 10.14, Thickness = 0.042134831460674156, Cost = 215.87808988764044
+Name = SM Carbon-Bismaelimide Fiber, Grade 2, 40% Fiber, ID = 256
+Modulus = 6.960000000000001, Thickness = 0.20365168539325842, Cost = 402.6786516853933
+Name = SM Carbon-Bismaelimide Fiber, Grade 2, 50% Fiber, ID = 257
+Modulus = 8.55, Thickness = 0.16292134831460675, Cost = 361.76910112359553
+Name = SM Carbon-Bismaelimide Fiber, Grade 2, 60% Fiber, ID = 258
+Modulus = 10.14, Thickness = 0.13576779026217228, Cost = 334.4960674157303
+Name = SM Carbon-Bismaelimide Fiber, Grade 3, 40% Fiber, ID = 259
+Modulus = 6.960000000000001, Thickness = 0.26685393258426965, Cost = 477.2168539325843
+Name = SM Carbon-Bismaelimide Fiber, Grade 3, 50% Fiber, ID = 260
+Modulus = 8.55, Thickness = 0.21348314606741572, Cost = 423.61123595505615
+Name = SM Carbon-Bismaelimide Fiber, Grade 3, 60% Fiber, ID = 261
+Modulus = 10.14, Thickness = 0.17790262172284643, Cost = 387.8741573033708
+Name = IM Carbon-Bismaelimide Fiber, Grade 1, 40% Fiber, ID = 262
+Modulus = 8.56, Thickness = 0.062154696132596686, Cost = 272.85690607734807
+Name = IM Carbon-Bismaelimide Fiber, Grade 1, 50% Fiber, ID = 263
+Modulus = 10.55, Thickness = 0.04972375690607734, Cost = 260.37127071823204
+Name = IM Carbon-Bismaelimide Fiber, Grade 1, 60% Fiber, ID = 264
+Modulus = 12.54, Thickness = 0.04143646408839779, Cost = 252.0475138121547
+Name = IM Carbon-Bismaelimide Fiber, Grade 2, 40% Fiber, ID = 265
+Modulus = 8.56, Thickness = 0.20027624309392264, Cost = 518.0944751381215
+Name = IM Carbon-Bismaelimide Fiber, Grade 2, 50% Fiber, ID = 266
+Modulus = 10.55, Thickness = 0.1602209944751381, Cost = 477.86298342541437
+Name = IM Carbon-Bismaelimide Fiber, Grade 2, 60% Fiber, ID = 267
+Modulus = 12.54, Thickness = 0.13351749539594843, Cost = 451.0419889502762
+Name = IM Carbon-Bismaelimide Fiber, Grade 3, 40% Fiber, ID = 268
+Modulus = 8.56, Thickness = 0.26243093922651933, Cost = 628.4513812154696
+Name = IM Carbon-Bismaelimide Fiber, Grade 3, 50% Fiber, ID = 269
+Modulus = 10.55, Thickness = 0.20994475138121543, Cost = 575.7342541436464
+Name = IM Carbon-Bismaelimide Fiber, Grade 3, 60% Fiber, ID = 270
+Modulus = 12.54, Thickness = 0.17495395948434622, Cost = 540.589502762431
+Name = HM Carbon-Bismaelimide Fiber, Grade 1, 40% Fiber, ID = 271
+Modulus = 12.96, Thickness = 0.06114130434782608, Cost = 381.59619565217395
+Name = HM Carbon-Bismaelimide Fiber, Grade 1, 50% Fiber, ID = 272
+Modulus = 16.05, Thickness = 0.048913043478260865, Cost = 369.31413043478267
+Name = HM Carbon-Bismaelimide Fiber, Grade 1, 60% Fiber, ID = 273
+Modulus = 19.139999999999997, Thickness = 0.040760869565217385, Cost = 361.1260869565217
+Name = HM Carbon-Bismaelimide Fiber, Grade 2, 40% Fiber, ID = 274
+Modulus = 12.96, Thickness = 0.19701086956521735, Cost = 868.4766304347825
+Name = HM Carbon-Bismaelimide Fiber, Grade 2, 50% Fiber, ID = 275
+Modulus = 16.05, Thickness = 0.1576086956521739, Cost = 828.9010869565218
+Name = HM Carbon-Bismaelimide Fiber, Grade 2, 60% Fiber, ID = 276
+Modulus = 19.139999999999997, Thickness = 0.1313405797101449, Cost = 802.5173913043477
+Name = HM Carbon-Bismaelimide Fiber, Grade 3, 40% Fiber, ID = 277
+Modulus = 12.96, Thickness = 0.25815217391304346, Cost = 1087.5728260869566
+Name = HM Carbon-Bismaelimide Fiber, Grade 3, 50% Fiber, ID = 278
+Modulus = 16.05, Thickness = 0.20652173913043476, Cost = 1035.7152173913043
+Name = HM Carbon-Bismaelimide Fiber, Grade 3, 60% Fiber, ID = 279
+Modulus = 19.139999999999997, Thickness = 0.17210144927536228, Cost = 1001.1434782608693
+Name = E-Glass-Polyimide Fiber, Grade 1, 40% Fiber, ID = 280
+Modulus = 2.43, Thickness = 0.04518072289156626, Cost = 285.1963855421687
+Name = E-Glass-Polyimide Fiber, Grade 1, 50% Fiber, ID = 281
+Modulus = 2.9, Thickness = 0.03614457831325301, Cost = 262.87259036144576
+Name = E-Glass-Polyimide Fiber, Grade 1, 60% Fiber, ID = 282
+Modulus = 3.37, Thickness = 0.03012048192771084, Cost = 247.99006024096386
+Name = E-Glass-Polyimide Fiber, Grade 2, 40% Fiber, ID = 283
+Modulus = 2.43, Thickness = 0.14558232931726905, Cost = 474.52168674698794
+Name = E-Glass-Polyimide Fiber, Grade 2, 50% Fiber, ID = 284
+Modulus = 2.9, Thickness = 0.11646586345381527, Cost = 402.58945783132526
+Name = E-Glass-Polyimide Fiber, Grade 2, 60% Fiber, ID = 285
+Modulus = 3.37, Thickness = 0.0970548862115127, Cost = 354.63463855421685
+Name = E-Glass-Polyimide Fiber, Grade 3, 40% Fiber, ID = 286
+Modulus = 2.43, Thickness = 0.19076305220883533, Cost = 559.7180722891566
+Name = E-Glass-Polyimide Fiber, Grade 3, 50% Fiber, ID = 287
+Modulus = 2.9, Thickness = 0.15261044176706828, Cost = 465.46204819277114
+Name = E-Glass-Polyimide Fiber, Grade 3, 60% Fiber, ID = 288
+Modulus = 3.37, Thickness = 0.12717536813922353, Cost = 402.6246987951807
+Name = S2-Glass-Polyimide Fiber, Grade 1, 40% Fiber, ID = 289
+Modulus = 2.85, Thickness = 0.05113636363636364, Cost = 303.13693181818184
+Name = S2-Glass-Polyimide Fiber, Grade 1, 50% Fiber, ID = 290
+Modulus = 3.425, Thickness = 0.04090909090909091, Cost = 277.87045454545455
+Name = S2-Glass-Polyimide Fiber, Grade 1, 60% Fiber, ID = 291
+Modulus = 4.0, Thickness = 0.03409090909090909, Cost = 261.0261363636364
+Name = S2-Glass-Polyimide Fiber, Grade 2, 40% Fiber, ID = 292
+Modulus = 2.85, Thickness = 0.16477272727272727, Cost = 532.3301136363636
+Name = S2-Glass-Polyimide Fiber, Grade 2, 50% Fiber, ID = 293
+Modulus = 3.425, Thickness = 0.1318181818181818, Cost = 450.91590909090905
+Name = S2-Glass-Polyimide Fiber, Grade 2, 60% Fiber, ID = 294
+Modulus = 4.0, Thickness = 0.10984848484848485, Cost = 396.6397727272727
+Name = S2-Glass-Polyimide Fiber, Grade 3, 40% Fiber, ID = 295
+Modulus = 2.85, Thickness = 0.2159090909090909, Cost = 635.4670454545455
+Name = S2-Glass-Polyimide Fiber, Grade 3, 50% Fiber, ID = 296
+Modulus = 3.425, Thickness = 0.17272727272727273, Cost = 528.7863636363636
+Name = S2-Glass-Polyimide Fiber, Grade 3, 60% Fiber, ID = 297
+Modulus = 4.0, Thickness = 0.14393939393939395, Cost = 457.66590909090917
+Name = SM Carbon-Polyimide Fiber, Grade 1, 40% Fiber, ID = 298
+Modulus = 6.930000000000001, Thickness = 0.06320224719101124, Cost = 330.13469101123593
+Name = SM Carbon-Polyimide Fiber, Grade 1, 50% Fiber, ID = 299
+Modulus = 8.525, Thickness = 0.05056179775280899, Cost = 298.9064606741573
+Name = SM Carbon-Polyimide Fiber, Grade 1, 60% Fiber, ID = 300
+Modulus = 10.120000000000001, Thickness = 0.042134831460674156, Cost = 278.0876404494382
+Name = SM Carbon-Polyimide Fiber, Grade 2, 40% Fiber, ID = 301
+Modulus = 6.930000000000001, Thickness = 0.20365168539325842, Cost = 619.322893258427
+Name = SM Carbon-Polyimide Fiber, Grade 2, 50% Fiber, ID = 302
+Modulus = 8.525, Thickness = 0.16292134831460675, Cost = 518.698595505618
+Name = SM Carbon-Polyimide Fiber, Grade 2, 60% Fiber, ID = 303
+Modulus = 10.120000000000001, Thickness = 0.13576779026217228, Cost = 451.6157303370786
+Name = SM Carbon-Polyimide Fiber, Grade 3, 40% Fiber, ID = 304
+Modulus = 6.930000000000001, Thickness = 0.26685393258426965, Cost = 749.4575842696629
+Name = SM Carbon-Polyimide Fiber, Grade 3, 50% Fiber, ID = 305
+Modulus = 8.525, Thickness = 0.21348314606741572, Cost = 617.6050561797751
+Name = SM Carbon-Polyimide Fiber, Grade 3, 60% Fiber, ID = 306
+Modulus = 10.120000000000001, Thickness = 0.17790262172284643, Cost = 529.7033707865169
+Name = IM Carbon-Polyimide Fiber, Grade 1, 40% Fiber, ID = 307
+Modulus = 8.530000000000001, Thickness = 0.062154696132596686, Cost = 365.0319060773481
+Name = IM Carbon-Polyimide Fiber, Grade 1, 50% Fiber, ID = 308
+Modulus = 10.525, Thickness = 0.04972375690607734, Cost = 334.32127071823203
+Name = IM Carbon-Polyimide Fiber, Grade 1, 60% Fiber, ID = 309
+Modulus = 12.52, Thickness = 0.04143646408839779, Cost = 313.8475138121547
+Name = IM Carbon-Polyimide Fiber, Grade 2, 40% Fiber, ID = 310
+Modulus = 8.530000000000001, Thickness = 0.20027624309392264, Cost = 731.7694751381216
+Name = IM Carbon-Polyimide Fiber, Grade 2, 50% Fiber, ID = 311
+Modulus = 10.525, Thickness = 0.1602209944751381, Cost = 632.8129834254144
+Name = IM Carbon-Polyimide Fiber, Grade 2, 60% Fiber, ID = 312
+Modulus = 12.52, Thickness = 0.13351749539594843, Cost = 566.8419889502762
+Name = IM Carbon-Polyimide Fiber, Grade 3, 40% Fiber, ID = 313
+Modulus = 8.530000000000001, Thickness = 0.26243093922651933, Cost = 896.8013812154696
+Name = IM Carbon-Polyimide Fiber, Grade 3, 50% Fiber, ID = 314
+Modulus = 10.525, Thickness = 0.20994475138121543, Cost = 767.1342541436462
+Name = IM Carbon-Polyimide Fiber, Grade 3, 60% Fiber, ID = 315
+Modulus = 12.52, Thickness = 0.17495395948434622, Cost = 680.689502762431
+Name = HM Carbon-Polyimide Fiber, Grade 1, 40% Fiber, ID = 316
+Modulus = 12.930000000000001, Thickness = 0.06114130434782608, Cost = 472.8797554347826
+Name = HM Carbon-Polyimide Fiber, Grade 1, 50% Fiber, ID = 317
+Modulus = 16.025, Thickness = 0.048913043478260865, Cost = 442.66983695652175
+Name = HM Carbon-Polyimide Fiber, Grade 1, 60% Fiber, ID = 318
+Modulus = 19.119999999999997, Thickness = 0.040760869565217385, Cost = 422.52989130434776
+Name = HM Carbon-Polyimide Fiber, Grade 2, 40% Fiber, ID = 319
+Modulus = 12.930000000000001, Thickness = 0.19701086956521735, Cost = 1079.2792119565215
+Name = HM Carbon-Polyimide Fiber, Grade 2, 50% Fiber, ID = 320
+Modulus = 16.025, Thickness = 0.1576086956521739, Cost = 981.9361413043479
+Name = HM Carbon-Polyimide Fiber, Grade 2, 60% Fiber, ID = 321
+Modulus = 19.119999999999997, Thickness = 0.1313405797101449, Cost = 917.040760869565
+Name = HM Carbon-Polyimide Fiber, Grade 3, 40% Fiber, ID = 322
+Modulus = 12.930000000000001, Thickness = 0.25815217391304346, Cost = 1352.1589673913045
+Name = HM Carbon-Polyimide Fiber, Grade 3, 50% Fiber, ID = 323
+Modulus = 16.025, Thickness = 0.20652173913043476, Cost = 1224.6059782608695
+Name = HM Carbon-Polyimide Fiber, Grade 3, 60% Fiber, ID = 324
+Modulus = 19.119999999999997, Thickness = 0.17210144927536228, Cost = 1139.5706521739128
+Name = 0.2 in. thick, Nomex 2, ID = 325
+Modulus = 2.2, Thickness = 0.2, Cost = 640.0
+Name = 0.30000000000000004 in. thick, Nomex 2, ID = 326
+Modulus = 2.2, Thickness = 0.30000000000000004, Cost = 910.0000000000001
+Name = 0.4 in. thick, Nomex 2, ID = 327
+Modulus = 2.2, Thickness = 0.4, Cost = 1180.0
+Name = 0.5 in. thick, Nomex 2, ID = 328
+Modulus = 2.2, Thickness = 0.5, Cost = 1450.0
+Name = 0.6 in. thick, Nomex 2, ID = 329
+Modulus = 2.2, Thickness = 0.6, Cost = 1720.0
+Name = 0.7 in. thick, Nomex 2, ID = 330
+Modulus = 2.2, Thickness = 0.7, Cost = 1989.9999999999998
+Name = 0.7999999999999999 in. thick, Nomex 2, ID = 331
+Modulus = 2.2, Thickness = 0.7999999999999999, Cost = 2260.0
+Name = 0.8999999999999999 in. thick, Nomex 2, ID = 332
+Modulus = 2.2, Thickness = 0.8999999999999999, Cost = 2529.9999999999995
+Name = 0.9999999999999999 in. thick, Nomex 2, ID = 333
+Modulus = 2.2, Thickness = 0.9999999999999999, Cost = 2799.9999999999995
+Name = 1.0999999999999999 in. thick, Nomex 2, ID = 334
+Modulus = 2.2, Thickness = 1.0999999999999999, Cost = 3069.9999999999995
+Name = 1.2 in. thick, Nomex 2, ID = 335
+Modulus = 2.2, Thickness = 1.2, Cost = 3340.0
+Name = 0.2 in. thick, Nomex 3, ID = 336
+Modulus = 3.5, Thickness = 0.2, Cost = 1072.0000000000002
+Name = 0.30000000000000004 in. thick, Nomex 3, ID = 337
+Modulus = 3.5, Thickness = 0.30000000000000004, Cost = 1558.0000000000002
+Name = 0.4 in. thick, Nomex 3, ID = 338
+Modulus = 3.5, Thickness = 0.4, Cost = 2044.0000000000005
+Name = 0.5 in. thick, Nomex 3, ID = 339
+Modulus = 3.5, Thickness = 0.5, Cost = 2530.0
+Name = 0.6 in. thick, Nomex 3, ID = 340
+Modulus = 3.5, Thickness = 0.6, Cost = 3015.9999999999995
+Name = 0.7 in. thick, Nomex 3, ID = 341
+Modulus = 3.5, Thickness = 0.7, Cost = 3501.9999999999995
+Name = 0.7999999999999999 in. thick, Nomex 3, ID = 342
+Modulus = 3.5, Thickness = 0.7999999999999999, Cost = 3988.0
+Name = 0.8999999999999999 in. thick, Nomex 3, ID = 343
+Modulus = 3.5, Thickness = 0.8999999999999999, Cost = 4473.999999999999
+Name = 0.9999999999999999 in. thick, Nomex 3, ID = 344
+Modulus = 3.5, Thickness = 0.9999999999999999, Cost = 4959.999999999999
+Name = 1.0999999999999999 in. thick, Nomex 3, ID = 345
+Modulus = 3.5, Thickness = 1.0999999999999999, Cost = 5446.0
+Name = 1.2 in. thick, Nomex 3, ID = 346
+Modulus = 3.5, Thickness = 1.2, Cost = 5931.999999999999
+Name = 0.2 in. thick, Nomex 4, ID = 347
+Modulus = 4.7, Thickness = 0.2, Cost = 1720.0
+Name = 0.30000000000000004 in. thick, Nomex 4, ID = 348
+Modulus = 4.7, Thickness = 0.30000000000000004, Cost = 2530.0000000000005
+Name = 0.4 in. thick, Nomex 4, ID = 349
+Modulus = 4.7, Thickness = 0.4, Cost = 3340.0
+Name = 0.5 in. thick, Nomex 4, ID = 350
+Modulus = 4.7, Thickness = 0.5, Cost = 4150.0
+Name = 0.6 in. thick, Nomex 4, ID = 351
+Modulus = 4.7, Thickness = 0.6, Cost = 4960.0
+Name = 0.7 in. thick, Nomex 4, ID = 352
+Modulus = 4.7, Thickness = 0.7, Cost = 5770.0
+Name = 0.7999999999999999 in. thick, Nomex 4, ID = 353
+Modulus = 4.7, Thickness = 0.7999999999999999, Cost = 6579.999999999999
+Name = 0.8999999999999999 in. thick, Nomex 4, ID = 354
+Modulus = 4.7, Thickness = 0.8999999999999999, Cost = 7389.999999999999
+Name = 0.9999999999999999 in. thick, Nomex 4, ID = 355
+Modulus = 4.7, Thickness = 0.9999999999999999, Cost = 8200.0
+Name = 1.0999999999999999 in. thick, Nomex 4, ID = 356
+Modulus = 4.7, Thickness = 1.0999999999999999, Cost = 9009.999999999998
+Name = 1.2 in. thick, Nomex 4, ID = 357
+Modulus = 4.7, Thickness = 1.2, Cost = 9820.0
+Name = 0.2 in. thick, Nomex 6, ID = 358
+Modulus = 6.0, Thickness = 0.2, Cost = 3340.0000000000005
+Name = 0.30000000000000004 in. thick, Nomex 6, ID = 359
+Modulus = 6.0, Thickness = 0.30000000000000004, Cost = 4960.000000000001
+Name = 0.4 in. thick, Nomex 6, ID = 360
+Modulus = 6.0, Thickness = 0.4, Cost = 6580.000000000001
+Name = 0.5 in. thick, Nomex 6, ID = 361
+Modulus = 6.0, Thickness = 0.5, Cost = 8200.0
+Name = 0.6 in. thick, Nomex 6, ID = 362
+Modulus = 6.0, Thickness = 0.6, Cost = 9819.999999999998
+Name = 0.7 in. thick, Nomex 6, ID = 363
+Modulus = 6.0, Thickness = 0.7, Cost = 11440.0
+Name = 0.7999999999999999 in. thick, Nomex 6, ID = 364
+Modulus = 6.0, Thickness = 0.7999999999999999, Cost = 13060.0
+Name = 0.8999999999999999 in. thick, Nomex 6, ID = 365
+Modulus = 6.0, Thickness = 0.8999999999999999, Cost = 14679.999999999998
+Name = 0.9999999999999999 in. thick, Nomex 6, ID = 366
+Modulus = 6.0, Thickness = 0.9999999999999999, Cost = 16299.999999999996
+Name = 1.0999999999999999 in. thick, Nomex 6, ID = 367
+Modulus = 6.0, Thickness = 1.0999999999999999, Cost = 17920.0
+Name = 1.2 in. thick, Nomex 6, ID = 368
+Modulus = 6.0, Thickness = 1.2, Cost = 19539.999999999996
+Name = 0.2 in. thick, Glass 4, ID = 369
+Modulus = 7.0, Thickness = 0.2, Cost = 2260.0
+Name = 0.30000000000000004 in. thick, Glass 4, ID = 370
+Modulus = 7.0, Thickness = 0.30000000000000004, Cost = 3340.0000000000005
+Name = 0.4 in. thick, Glass 4, ID = 371
+Modulus = 7.0, Thickness = 0.4, Cost = 4420.0
+Name = 0.5 in. thick, Glass 4, ID = 372
+Modulus = 7.0, Thickness = 0.5, Cost = 5500.0
+Name = 0.6 in. thick, Glass 4, ID = 373
+Modulus = 7.0, Thickness = 0.6, Cost = 6580.0
+Name = 0.7 in. thick, Glass 4, ID = 374
+Modulus = 7.0, Thickness = 0.7, Cost = 7659.999999999999
+Name = 0.7999999999999999 in. thick, Glass 4, ID = 375
+Modulus = 7.0, Thickness = 0.7999999999999999, Cost = 8740.0
+Name = 0.8999999999999999 in. thick, Glass 4, ID = 376
+Modulus = 7.0, Thickness = 0.8999999999999999, Cost = 9819.999999999998
+Name = 0.9999999999999999 in. thick, Glass 4, ID = 377
+Modulus = 7.0, Thickness = 0.9999999999999999, Cost = 10899.999999999998
+Name = 1.0999999999999999 in. thick, Glass 4, ID = 378
+Modulus = 7.0, Thickness = 1.0999999999999999, Cost = 11979.999999999998
+Name = 1.2 in. thick, Glass 4, ID = 379
+Modulus = 7.0, Thickness = 1.2, Cost = 13060.0
+Name = 0.2 in. thick, Glass 5.5, ID = 380
+Modulus = 11.0, Thickness = 0.2, Cost = 3367.0000000000005
+Name = 0.30000000000000004 in. thick, Glass 5.5, ID = 381
+Modulus = 11.0, Thickness = 0.30000000000000004, Cost = 5000.500000000001
+Name = 0.4 in. thick, Glass 5.5, ID = 382
+Modulus = 11.0, Thickness = 0.4, Cost = 6634.000000000001
+Name = 0.5 in. thick, Glass 5.5, ID = 383
+Modulus = 11.0, Thickness = 0.5, Cost = 8267.5
+Name = 0.6 in. thick, Glass 5.5, ID = 384
+Modulus = 11.0, Thickness = 0.6, Cost = 9901.0
+Name = 0.7 in. thick, Glass 5.5, ID = 385
+Modulus = 11.0, Thickness = 0.7, Cost = 11534.499999999998
+Name = 0.7999999999999999 in. thick, Glass 5.5, ID = 386
+Modulus = 11.0, Thickness = 0.7999999999999999, Cost = 13167.999999999998
+Name = 0.8999999999999999 in. thick, Glass 5.5, ID = 387
+Modulus = 11.0, Thickness = 0.8999999999999999, Cost = 14801.499999999998
+Name = 0.9999999999999999 in. thick, Glass 5.5, ID = 388
+Modulus = 11.0, Thickness = 0.9999999999999999, Cost = 16434.999999999996
+Name = 1.0999999999999999 in. thick, Glass 5.5, ID = 389
+Modulus = 11.0, Thickness = 1.0999999999999999, Cost = 18068.499999999996
+Name = 1.2 in. thick, Glass 5.5, ID = 390
+Modulus = 11.0, Thickness = 1.2, Cost = 19702.0
+Name = 0.2 in. thick, Glass 8, ID = 391
+Modulus = 19.0, Thickness = 0.2, Cost = 5284.0
+Name = 0.30000000000000004 in. thick, Glass 8, ID = 392
+Modulus = 19.0, Thickness = 0.30000000000000004, Cost = 7876.000000000002
+Name = 0.4 in. thick, Glass 8, ID = 393
+Modulus = 19.0, Thickness = 0.4, Cost = 10468.0
+Name = 0.5 in. thick, Glass 8, ID = 394
+Modulus = 19.0, Thickness = 0.5, Cost = 13060.0
+Name = 0.6 in. thick, Glass 8, ID = 395
+Modulus = 19.0, Thickness = 0.6, Cost = 15652.0
+Name = 0.7 in. thick, Glass 8, ID = 396
+Modulus = 19.0, Thickness = 0.7, Cost = 18244.0
+Name = 0.7999999999999999 in. thick, Glass 8, ID = 397
+Modulus = 19.0, Thickness = 0.7999999999999999, Cost = 20835.999999999996
+Name = 0.8999999999999999 in. thick, Glass 8, ID = 398
+Modulus = 19.0, Thickness = 0.8999999999999999, Cost = 23427.999999999996
+Name = 0.9999999999999999 in. thick, Glass 8, ID = 399
+Modulus = 19.0, Thickness = 0.9999999999999999, Cost = 26019.999999999996
+Name = 1.0999999999999999 in. thick, Glass 8, ID = 400
+Modulus = 19.0, Thickness = 1.0999999999999999, Cost = 28611.999999999996
+Name = 1.2 in. thick, Glass 8, ID = 401
+Modulus = 19.0, Thickness = 1.2, Cost = 31204.0
+Name = 0.2 in. thick, Alumi 2, ID = 402
+Modulus = 15.0, Thickness = 0.2, Cost = 2260.0
+Name = 0.30000000000000004 in. thick, Alumi 2, ID = 403
+Modulus = 15.0, Thickness = 0.30000000000000004, Cost = 3340.0000000000005
+Name = 0.4 in. thick, Alumi 2, ID = 404
+Modulus = 15.0, Thickness = 0.4, Cost = 4420.0
+Name = 0.5 in. thick, Alumi 2, ID = 405
+Modulus = 15.0, Thickness = 0.5, Cost = 5500.0
+Name = 0.6 in. thick, Alumi 2, ID = 406
+Modulus = 15.0, Thickness = 0.6, Cost = 6580.0
+Name = 0.7 in. thick, Alumi 2, ID = 407
+Modulus = 15.0, Thickness = 0.7, Cost = 7659.999999999999
+Name = 0.7999999999999999 in. thick, Alumi 2, ID = 408
+Modulus = 15.0, Thickness = 0.7999999999999999, Cost = 8740.0
+Name = 0.8999999999999999 in. thick, Alumi 2, ID = 409
+Modulus = 15.0, Thickness = 0.8999999999999999, Cost = 9819.999999999998
+Name = 0.9999999999999999 in. thick, Alumi 2, ID = 410
+Modulus = 15.0, Thickness = 0.9999999999999999, Cost = 10899.999999999998
+Name = 1.0999999999999999 in. thick, Alumi 2, ID = 411
+Modulus = 15.0, Thickness = 1.0999999999999999, Cost = 11979.999999999998
+Name = 1.2 in. thick, Alumi 2, ID = 412
+Modulus = 15.0, Thickness = 1.2, Cost = 13060.0
+Name = 0.2 in. thick, Alumi 3.1, ID = 413
+Modulus = 19.0, Thickness = 0.2, Cost = 3782.8000000000006
+Name = 0.30000000000000004 in. thick, Alumi 3.1, ID = 414
+Modulus = 19.0, Thickness = 0.30000000000000004, Cost = 5624.200000000002
+Name = 0.4 in. thick, Alumi 3.1, ID = 415
+Modulus = 19.0, Thickness = 0.4, Cost = 7465.600000000001
+Name = 0.5 in. thick, Alumi 3.1, ID = 416
+Modulus = 19.0, Thickness = 0.5, Cost = 9307.0
+Name = 0.6 in. thick, Alumi 3.1, ID = 417
+Modulus = 19.0, Thickness = 0.6, Cost = 11148.4
+Name = 0.7 in. thick, Alumi 3.1, ID = 418
+Modulus = 19.0, Thickness = 0.7, Cost = 12989.8
+Name = 0.7999999999999999 in. thick, Alumi 3.1, ID = 419
+Modulus = 19.0, Thickness = 0.7999999999999999, Cost = 14831.199999999999
+Name = 0.8999999999999999 in. thick, Alumi 3.1, ID = 420
+Modulus = 19.0, Thickness = 0.8999999999999999, Cost = 16672.6
+Name = 0.9999999999999999 in. thick, Alumi 3.1, ID = 421
+Modulus = 19.0, Thickness = 0.9999999999999999, Cost = 18513.999999999996
+Name = 1.0999999999999999 in. thick, Alumi 3.1, ID = 422
+Modulus = 19.0, Thickness = 1.0999999999999999, Cost = 20355.399999999998
+Name = 1.2 in. thick, Alumi 3.1, ID = 423
+Modulus = 19.0, Thickness = 1.2, Cost = 22196.8
+Name = 0.2 in. thick, Alumi 4.4, ID = 424
+Modulus = 30.0, Thickness = 0.2, Cost = 5802.4000000000015
+Name = 0.30000000000000004 in. thick, Alumi 4.4, ID = 425
+Modulus = 30.0, Thickness = 0.30000000000000004, Cost = 8653.600000000002
+Name = 0.4 in. thick, Alumi 4.4, ID = 426
+Modulus = 30.0, Thickness = 0.4, Cost = 11504.800000000003
+Name = 0.5 in. thick, Alumi 4.4, ID = 427
+Modulus = 30.0, Thickness = 0.5, Cost = 14356.000000000002
+Name = 0.6 in. thick, Alumi 4.4, ID = 428
+Modulus = 30.0, Thickness = 0.6, Cost = 17207.2
+Name = 0.7 in. thick, Alumi 4.4, ID = 429
+Modulus = 30.0, Thickness = 0.7, Cost = 20058.399999999998
+Name = 0.7999999999999999 in. thick, Alumi 4.4, ID = 430
+Modulus = 30.0, Thickness = 0.7999999999999999, Cost = 22909.6
+Name = 0.8999999999999999 in. thick, Alumi 4.4, ID = 431
+Modulus = 30.0, Thickness = 0.8999999999999999, Cost = 25760.8
+Name = 0.9999999999999999 in. thick, Alumi 4.4, ID = 432
+Modulus = 30.0, Thickness = 0.9999999999999999, Cost = 28612.0
+Name = 1.0999999999999999 in. thick, Alumi 4.4, ID = 433
+Modulus = 30.0, Thickness = 1.0999999999999999, Cost = 31463.199999999993
+Name = 1.2 in. thick, Alumi 4.4, ID = 434
+Modulus = 30.0, Thickness = 1.2, Cost = 34314.4
